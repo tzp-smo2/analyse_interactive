@@ -12,4 +12,6 @@ Cette application Streamlit permet de :
 
 Lancer en local :
 ```bash
-streamlit run analyse_smo2.py
+streamlit run analyse_smo2_zones_dynamique_v2.py
+```
+"""
